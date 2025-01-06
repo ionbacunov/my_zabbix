@@ -1,5 +1,7 @@
 Customized zabbix-server templates for monitoring Mikrotik Switch's
+
 This template is created and tested on zabbix 7 !
+
 Added :
 1) SNMP walk SFP interface optical tx/rx power ( if your modules support DDM)
 2) Display Graphs in graphs menu
