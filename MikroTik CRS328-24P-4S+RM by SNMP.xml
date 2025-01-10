@@ -3787,8 +3787,8 @@ min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx1,5m) &gt; -12</recovery_expression
             <expression>min(/MikroTik CRS328-24P-4SRM by SNMP/walk.rx1,5m) &gt; -25 and min(/MikroTik CRS328-24P-4SRM by SNMP/walk.rx1,5m) &lt;= -16 or
 min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx1,5m) &gt; -25 and min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx1,5m) &lt;= -16</expression>
             <recovery_mode>RECOVERY_EXPRESSION</recovery_mode>
-            <recovery_expression>min(/MikroTik CRS328-24P-4SRM by SNMP/walk.rx1,5m) &gt; -12 and
-min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx1,5m) &gt; -12</recovery_expression>
+            <recovery_expression>min(/MikroTik CRS328-24P-4SRM by SNMP/walk.rx1,5m) &gt; -15 and
+min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx1,5m) &gt; -15</recovery_expression>
             <name>Optical RX/TX Power SFP+1 High</name>
             <priority>HIGH</priority>
             <manual_close>YES</manual_close>
@@ -3809,8 +3809,8 @@ min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx2,5m) &gt; -12</recovery_expression
             <expression>min(/MikroTik CRS328-24P-4SRM by SNMP/walk.rx2,5m) &gt; -25 and min(/MikroTik CRS328-24P-4SRM by SNMP/walk.rx2,5m) &lt;= -16 or
 min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx2,5m) &gt; -25 and min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx2,5m) &lt;= -16</expression>
             <recovery_mode>RECOVERY_EXPRESSION</recovery_mode>
-            <recovery_expression>min(/MikroTik CRS328-24P-4SRM by SNMP/walk.rx2,5m) &gt; -12 and
-min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx2,5m) &gt; -12</recovery_expression>
+            <recovery_expression>min(/MikroTik CRS328-24P-4SRM by SNMP/walk.rx2,5m) &gt; -15 and
+min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx2,5m) &gt; -15</recovery_expression>
             <name>Optical RX/TX Power SFP+2 High</name>
             <priority>HIGH</priority>
             <manual_close>YES</manual_close>
@@ -3831,8 +3831,8 @@ min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx3,5m) &gt; -12</recovery_expression
             <expression>min(/MikroTik CRS328-24P-4SRM by SNMP/walk.rx3,5m) &gt; -25 and min(/MikroTik CRS328-24P-4SRM by SNMP/walk.rx3,5m) &lt;= -16 or
 min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx3,5m) &gt; -25 and min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx3,5m) &lt;= -16</expression>
             <recovery_mode>RECOVERY_EXPRESSION</recovery_mode>
-            <recovery_expression>min(/MikroTik CRS328-24P-4SRM by SNMP/walk.rx3,5m) &gt; -12 and
-min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx3,5m) &gt; -12</recovery_expression>
+            <recovery_expression>min(/MikroTik CRS328-24P-4SRM by SNMP/walk.rx3,5m) &gt; -15 and
+min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx3,5m) &gt; -15</recovery_expression>
             <name>Optical RX/TX Power SFP+3 High</name>
             <priority>HIGH</priority>
             <manual_close>YES</manual_close>
@@ -3853,8 +3853,8 @@ min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx4,5m) &gt; -12</recovery_expression
             <expression>min(/MikroTik CRS328-24P-4SRM by SNMP/walk.rx4,5m) &gt; -25 and min(/MikroTik CRS328-24P-4SRM by SNMP/walk.rx4,5m) &lt;= -16 or
 min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx4,5m) &gt; -25 and min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx4,5m) &lt;= -16</expression>
             <recovery_mode>RECOVERY_EXPRESSION</recovery_mode>
-            <recovery_expression>min(/MikroTik CRS328-24P-4SRM by SNMP/walk.rx4,5m) &gt; -12 and
-min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx4,5m) &gt; -12</recovery_expression>
+            <recovery_expression>min(/MikroTik CRS328-24P-4SRM by SNMP/walk.rx4,5m) &gt; -15 and
+min(/MikroTik CRS328-24P-4SRM by SNMP/walk.tx4,5m) &gt; -15</recovery_expression>
             <name>Optical RX/TX Power SFP+4 High</name>
             <priority>HIGH</priority>
             <manual_close>YES</manual_close>
